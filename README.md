@@ -1,6 +1,6 @@
 # sample-ts-project
 
-This is a sample TypeScript project using npm hosted at GitHub Packages.
+This is a sample TypeScript project using npm package ([`@himajin-dev/sample-npm-package`](https://github.com/himajin-dev/sample-npm-package)) hosted at GitHub Packages.
 
 ## Setup
 
