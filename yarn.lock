@@ -9,6 +9,11 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@himajin-dev/sample-npm-package@^1.0.0":
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-npm-package/1.0.1/d2c3b83b797e94f3fa0832bb2aa1356b59c72046#d2c3b83b797e94f3fa0832bb2aa1356b59c72046"
+  integrity sha512-dLTB7gLvNR2LWXPE7hjy+BdjEC0heqnIudCr2DxS1mfkNyueJtYmPgZMK0YOJNYw3Fbm6gsxDkrjUP1DOl414g==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
