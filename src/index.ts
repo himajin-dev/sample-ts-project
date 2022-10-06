@@ -5,6 +5,12 @@ import { hello } from "@himajin-dev/sample-npm-package";
 import { foo } from "@himajin-dev/sample-npm-package/dist/foo";
 import { baz } from "@himajin-dev/sample-npm-package/dist/bar/baz";
 
+import { foo as monorepoFoo } from "@himajin-dev/sample-monorepo-npm-package-foo";
+import { bar as monorepoBar } from "@himajin-dev/sample-monorepo-npm-package-bar";
+
 hello("from TS Project!")
 foo("foo!")
 baz("baz!")
+
+monorepoFoo("foo!?")
+monorepoBar("bar!?")
