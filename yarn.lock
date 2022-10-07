@@ -14,6 +14,11 @@
   resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-bar/1.0.1/83bd6388a8992983f34a4ee4bbeb8284a847eef5#83bd6388a8992983f34a4ee4bbeb8284a847eef5"
   integrity sha512-vFdKEQ3iBzEPGWZH7PKP2EJskeV/Mvmh3M/4E0hElMonssHANYtuUqCYRVlZADmvI1cgPYqLYWT+HszXMdBJpQ==
 
+"@himajin-dev/sample-monorepo-npm-package-baz@^1.0.2":
+  version "1.0.2"
+  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-baz/1.0.2/55ba2e41847dbcf2fc01f8211808ca89175b658c#55ba2e41847dbcf2fc01f8211808ca89175b658c"
+  integrity sha512-xmRH1cQ5yQLBVLrzq2m728TleWK2RpPPkWcZf9WHjUoR/ChoHu9h/y+Ct8M4blKg+INsNED1oWi9uaf7EWyRjg==
+
 "@himajin-dev/sample-monorepo-npm-package-foo@^1.0.0":
   version "1.0.0"
   resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-foo/1.0.0/3d4ac152115e2929d4147b07dbe9d33283f9df4a#3d4ac152115e2929d4147b07dbe9d33283f9df4a"
