@@ -10,24 +10,19 @@
     "@jridgewell/trace-mapping" "0.3.9"
 
 "@himajin-dev/sample-monorepo-npm-package-bar@^1.0.0":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-bar/1.0.1/83bd6388a8992983f34a4ee4bbeb8284a847eef5#83bd6388a8992983f34a4ee4bbeb8284a847eef5"
-  integrity sha512-vFdKEQ3iBzEPGWZH7PKP2EJskeV/Mvmh3M/4E0hElMonssHANYtuUqCYRVlZADmvI1cgPYqLYWT+HszXMdBJpQ==
+  version "1.0.3"
+  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-bar/1.0.3/294ba873f58b5fc0b9f219badea874ae9cf92650#294ba873f58b5fc0b9f219badea874ae9cf92650"
+  integrity sha512-9nFEyvL02BEt6eejiz47ABQviwZSL+8tamgWwZn/TLrs5MdzceZnToaP7Ya0VCzsEFYp1lvJsOIP5OUIHfRE9g==
 
-"@himajin-dev/sample-monorepo-npm-package-baz@^1.0.2":
-  version "1.0.2"
-  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-baz/1.0.2/55ba2e41847dbcf2fc01f8211808ca89175b658c#55ba2e41847dbcf2fc01f8211808ca89175b658c"
-  integrity sha512-xmRH1cQ5yQLBVLrzq2m728TleWK2RpPPkWcZf9WHjUoR/ChoHu9h/y+Ct8M4blKg+INsNED1oWi9uaf7EWyRjg==
+"@himajin-dev/sample-monorepo-npm-package-baz@^1.0.0":
+  version "1.0.3"
+  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-baz/1.0.3/5f74028a382429870fc9c07ce97938c83445a05b#5f74028a382429870fc9c07ce97938c83445a05b"
+  integrity sha512-vlmo/dxKOX/clLnzAGfFnbvEJVUt/h8jxOF4Ix29AmjqJpe4a/LQgmSazKC22WjcfoSH8RyZYHLHN/aaRI4DKg==
 
 "@himajin-dev/sample-monorepo-npm-package-foo@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-foo/1.0.0/3d4ac152115e2929d4147b07dbe9d33283f9df4a#3d4ac152115e2929d4147b07dbe9d33283f9df4a"
-  integrity sha512-VapGxPXxyK+beXuXAvUa5EcgYxLtRrfAy8JTOr02vg/+Vg1i6WaeKME3jDErcCLsmZ3/EcIoyIMMPFXx7WZSFw==
-
-"@himajin-dev/sample-npm-package@^1.0.2":
   version "1.0.3"
-  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-npm-package/1.0.3/852df9475c21161dae32996a38669e30255423a4#852df9475c21161dae32996a38669e30255423a4"
-  integrity sha512-N5kXBwHFgm91hylP7wnidbinkfETEDh4PzL4a8VEfe1Hs16Dvd5nsNTt/SNc9j1VTt6RhCaiNz0QHgiKCpAxlA==
+  resolved "https://npm.pkg.github.com/download/@himajin-dev/sample-monorepo-npm-package-foo/1.0.3/2be699e2c076e8615d7f74704b65000f0e239ea6#2be699e2c076e8615d7f74704b65000f0e239ea6"
+  integrity sha512-8O4898Bk+166r0HrK7L9QzAd1v15DOWZStRxpfkP6xRNtOLh0/7UaAaOfe6k1AzDASb8bE0DfrWrQZSctot+rg==
 
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"

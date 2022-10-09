@@ -17,8 +17,7 @@
   },
   "dependencies": {
     "@himajin-dev/sample-monorepo-npm-package-bar": "^1.0.0",
-    "@himajin-dev/sample-monorepo-npm-package-baz": "^1.0.2",
-    "@himajin-dev/sample-monorepo-npm-package-foo": "^1.0.0",
-    "@himajin-dev/sample-npm-package": "^1.0.2"
+    "@himajin-dev/sample-monorepo-npm-package-baz": "^1.0.0",
+    "@himajin-dev/sample-monorepo-npm-package-foo": "^1.0.0"
   }
 }
